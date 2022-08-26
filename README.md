@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoahPedroso
 - 👀 I’m interested in Language and Voting
-- 🌱 I’m currently learning Game AI, Operating Systems
+- 🌱 I’m currently learning ProgLang, Probability Theory
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me n.pedroso@me.com
 
