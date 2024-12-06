@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoahPedroso
-- 👀 I’m interested in Education, Voting, and Machine Learning
-- 🌱 I’m currently learning Computational Vision
+- 👀 I’m interested in Education, Climate, Voting, and Machine Learning
+<!-- 🌱 I’m currently learning Computational Vision -->
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me n.pedroso@me.com
 
